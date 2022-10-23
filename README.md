@@ -25,11 +25,11 @@
 
 <a href="https://www.notion.so/iamyje/HI-YJE-ba3111d2c8624c9ea883c1053dc51051" target="blank"><img align="center" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
 
-<h1 align="center"> Git Stats</h1>
+<h1 align="center">🌈 Git Stats 🌈</h1>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Y2IN)](https://github.com/anuraghazra/github-readme-stats)
 
-<h1 align="center"> 42 SEOUL</h1>
+<h1 align="center">42 SEOUL</h1>
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl5ccekbo007809megmib8wjg/stats?cursusId=21&coalitionId=88" alt="yje's 42 stats" /></a>
 
 <h1 align="center">🏆 Baekjoon solved rank 🏆</h1>
