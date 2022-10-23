@@ -26,6 +26,7 @@
 <a href="https://www.notion.so/iamyje/HI-YJE-ba3111d2c8624c9ea883c1053dc51051" target="blank"><img align="center" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
 
 <h1 align="center">🌈 Git Stats 🌈</h1>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Y2IN&layout=compact">
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Y2IN)](https://github.com/anuraghazra/github-readme-stats)
 
