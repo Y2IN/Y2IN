@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=👩🏻‍💻Y2IN%20Github👩🏻‍💻&fontSize=90" />
 
 - 🌱 I’m currently learning **front-end skills**
-<h3 align="left">Connect with me:</h3>
+<h1 align="center">Connect with me:</h1>
 <p align="center">
 <a href="https://www.instagram.com/y2in_oo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Y2IN" height="30" width="40" /></a>
 </p>
