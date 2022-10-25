@@ -1,5 +1,5 @@
 <div align=center>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,18,20)&height=300&section=header&text=👩🏻‍💻Y2IN%20Github👩🏻‍💻%20Github&fontSize=80" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,18,20)&height=300&section=header&text=👩🏻‍💻Y2IN%20Github👩🏻‍💻&fontSize=80" />
 
 <h1 align="center">Connect with me:</h1>
 <p align="center">
